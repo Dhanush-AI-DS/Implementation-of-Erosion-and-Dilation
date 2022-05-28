@@ -8,10 +8,8 @@ To implement Erosion and Dilation using Python and OpenCV.
 ### Step1:
 <br>Import the necessary packages to do Erosion and Dilution.
 
-
-
 ### Step2:
-<br>:Create the text image of our name using putText from cv2 package.
+<br> Create the text image of our name using putText from cv2 package.
 
 
 ### Step3:
